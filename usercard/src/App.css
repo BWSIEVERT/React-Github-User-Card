@@ -1,0 +1,20 @@
+.UserCard {
+  text-align: center;
+}
+
+.UserCard Img {
+  margin-top: 4%;
+  border-radius: 50px;
+}
+ .UserCard a {
+   text-decoration: none;
+   color: blue;
+ }
+
+ .UserCard a:hover {
+   font-weight: 600;
+ }
+
+ .name {
+   text-decoration: underline;
+ }
